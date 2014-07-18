@@ -1,0 +1,24 @@
+{
+  "name": "ai-collector-spike",
+  "version": "0.0.0",
+  "description": "ai-collector-spike ==================",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddiatmb/ai-collector-spike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddiatmb/ai-collector-spike/issues"
+  },
+  "homepage": "https://github.com/ddiatmb/ai-collector-spike",
+  "dependencies": {
+    "cookies": "^0.4.1",
+    "node-uuid": "^1.4.1"
+  }
+}
